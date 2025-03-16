@@ -65,35 +65,3 @@ The **Retro Bodycam Reshade** preset aims to transform the visual style of the g
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/TheKillerMax/Bodycam-Reshade/refs/heads/main/screenshots/REPO1.jpg" alt="Before_1" width="49%"> <img src="https://raw.githubusercontent.com/TheKillerMax/Bodycam-Reshade/refs/heads/main/screenshots/REPO2.jpg" alt="After_1" width="49%">
-</p>
-
-<details>
-<summary>Click to reveal all the screenshots</summary>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/2_1.png" alt="Before_2" width="49%" height="auto"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/2_2.png" alt="After_2" width="49%" height="auto">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/3_1.png" alt="Before_3" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/3_2.png" alt="After_3" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/4_1.png" alt="Before_4" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/4_2.png" alt="After_4" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/5_1.png" alt="Before_5" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/5_2.png" alt="After_5" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/6_1.png" alt="Before_6" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/6_2.png" alt="After_6" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/7_1.png" alt="Before_7" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/7_2.png" alt="After_7" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/8_1.png" alt="Before_8" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/8_2.png" alt="After_8" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/9_1.png" alt="Before_9" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/9_2.png" alt="After_9" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/10_1.png" alt="Before_10" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/10_2.png" alt="After_10" width="49%">
-</details>
