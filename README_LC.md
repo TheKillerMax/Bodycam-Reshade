@@ -51,75 +51,17 @@ The **Retro Bodycam Reshade** preset aims to transform the visual style of the g
 
 2. **Download Preset**: Obtain the **Retro Bodycam Reshade** preset file from the archive.
 
-3. **Select Preset**: In the Reshade setup process, when prompted to select the effects, browse and choose the **BodyCam by Segich.ini** preset file from the **/reshade** folder.
+3. **Select Preset**: In the Reshade setup process, when prompted to select the effects, browse and choose the **BodyCam by TheKillerMax.ini** preset file from the **/reshade** folder.
 
 4. **Complete Installation**: Select **DirectX 10/11/12** and finish the Reshade setup process by following the on-screen instructions. Once the preset is selected during installation, the Reshade effects will be active immediately after starting the game.
 
 5. **Launch Game**: Start the game. You will immediately experience the retro bodycam aesthetic with the Reshade effects applied.
 
-6. **Adjust Display Mode  (Optional)**: Once the game has launched, navigate to the game's settings. Look for the **Display** settings. Find the option labeled **Display Mode** and change this setting from **Fullscreen** to **Windowed Fullscreen**. Save your changes and exit the settings menu.
-
-7. **Adjust Settings (Optional)**: While in-game, you can further customize the preset by tweaking individual effects within the Reshade menu (HOME by default) to achieve your desired visual style.
+6. **Adjust Settings (Optional)**: While in-game, you can further customize the preset by tweaking individual effects within the Reshade menu (HOME by default) to achieve your desired visual style.
 
 **With these steps completed, you're ready to immerse yourself in the vintage surveillance-style world of the game, enhanced by the retro bodycam Reshade preset. Enjoy your nostalgic gaming experience!**
 
 ## ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Screenshots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/1_1.png" alt="Before_1" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/1_2.png" alt="After_1" width="49%">
-</p>
-
-<details>
-<summary>Click to reveal all the screenshots</summary>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/2_1.png" alt="Before_2" width="49%" height="auto"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/2_2.png" alt="After_2" width="49%" height="auto">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/3_1.png" alt="Before_3" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/3_2.png" alt="After_3" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/4_1.png" alt="Before_4" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/4_2.png" alt="After_4" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/5_1.png" alt="Before_5" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/5_2.png" alt="After_5" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/6_1.png" alt="Before_6" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/6_2.png" alt="After_6" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/7_1.png" alt="Before_7" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/7_2.png" alt="After_7" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/8_1.png" alt="Before_8" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/8_2.png" alt="After_8" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/9_1.png" alt="Before_9" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/9_2.png" alt="After_9" width="49%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/10_1.png" alt="Before_10" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/10_2.png" alt="After_10" width="49%">
-</details>
-
-## ☕&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Say Thanks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕
-
-**If you're feeling generous and want to support my work, I'd be super grateful! You can check out my &nbsp;&nbsp;&nbsp; <a href='https://ko-fi.com/segich' target='_blank'><img alt="Segich on Ko-fi" width="250" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png" /></a> &nbsp;&nbsp;&nbsp; page if you want to contribute a little something. It'll support me in staying inspired for future projects.**
-
-## ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strongly Suggested Mods&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
-
-In addition to the **Retro Bodycam Reshade** preset, I highly recommend playing this game with the following mods:
-
-- [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/): Enhances the game by making dark areas truly dark, adding to the immersive experience.
-
-- [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/): Updates resolution and removes post-processing effects, resulting in improved visuals and performance.
-
-- [AdvancedCompany](https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/): Introduces new immersive flashlights and night vision capabilities, enhancing gameplay in low-light environments.
-
-- [Glowstick](https://thunderstore.io/c/lethal-company/p/Dezior/DeziorsGlowstickMod/): Adds glowsticks to help navigate dark areas and find your path back, providing a handy light source in challenging situations.
-
-- [FOV Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/): Adjusts FOV to 70 for a better viewing experience, allowing for improved spatial awareness.
-
-- [ViewExtension](https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/): Extends the view distance, allowing players to see farther and enhancing the game's environmental immersion.
-
-- [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/): Updates the in-game HUD with a refreshed  design, delivering a fresh visual experience while preserving crucial information.
-
-- [Immersive Visor](https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/): Replaces standard helmet glass with an immersive alternative, enhancing realism and immersion during gameplay.
+<img src="https://raw.githubusercontent.com/TheKillerMax/Bodycam-Reshade/refs/heads/main/screenshots/REPO1.jpg" alt="Before_1" width="49%"> <img src="https://raw.githubusercontent.com/TheKillerMax/Bodycam-Reshade/refs/heads/main/screenshots/REPO2.jpg" alt="After_1" width="49%">
