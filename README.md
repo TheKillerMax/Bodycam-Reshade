@@ -97,7 +97,3 @@ The **Retro Bodycam Reshade** preset aims to transform the visual style of the g
 <p align="center">
 <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/10_1.png" alt="Before_10" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/10_2.png" alt="After_10" width="49%">
 </details>
-
-## ☕&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Say Thanks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕
-
-**If you're feeling generous and want to support my work, I'd be super grateful! You can check out my &nbsp;&nbsp;&nbsp; <a href='https://ko-fi.com/segich' target='_blank'> <img alt="Segich on Ko-fi" width="200" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png" /></a> &nbsp;&nbsp;&nbsp; page if you want to contribute a little something. It'll support me in staying inspired for future projects.**
