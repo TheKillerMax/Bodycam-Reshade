@@ -64,7 +64,7 @@ The **Retro Bodycam Reshade** preset aims to transform the visual style of the g
 ## ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Screenshots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/1_1.png" alt="Before_1" width="49%"> <img src="https://raw.githubusercontent.com/SergeiBabko/bodycam-Reshade/main/Screenshots/1_2.png" alt="After_1" width="49%">
+<img src="https://raw.githubusercontent.com/TheKillerMax/Bodycam-Reshade/blob/main/screenshots/REPO1.jpg" alt="Before_1" width="49%"> <img src="https://raw.githubusercontent.com/TheKillerMax/Bodycam-Reshade/blob/main/screenshots/REPO2.jpg" alt="After_1" width="49%">
 </p>
 
 <details>
