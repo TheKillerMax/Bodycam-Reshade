@@ -51,7 +51,7 @@ The **Retro Bodycam Reshade** preset aims to transform the visual style of the g
 
 2. **Download Preset**: Obtain the **Retro Bodycam Reshade** preset file from the archive.
 
-3. **Select Preset**: In the Reshade setup process, when prompted to select the effects, browse and choose the **BodyCam by Segich.ini** preset file from the **/reshade** folder.
+3. **Select Preset**: In the Reshade setup process, when prompted to select the effects, browse and choose the **BodyCam by TheKillerMax.ini** preset file from the **/reshade** folder.
 
 4. **Complete Installation**: Select **DirectX 10/11/12** and finish the Reshade setup process by following the on-screen instructions. Once the preset is selected during installation, the Reshade effects will be active immediately after starting the game.
 
